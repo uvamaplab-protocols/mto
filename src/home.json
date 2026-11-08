@@ -39,7 +39,7 @@
                         "action": "flow://flows/mindtrails.json",
                         "backgroundcolor": "#1A00E05A",
                         "icon": {
-                            "url": "/assets/home_mindtrails.png",
+                            "url": "/assets/home_instructions.png",
                             "tint": false
                         }
                     },
@@ -48,7 +48,7 @@
                         "action": "flow://flows/getting_the_most_out_of_mt.json",
                         "backgroundcolor": "#1A00C2FF",
                         "icon": {
-                            "url": "/assets/home_instructions.png",
+                            "url": "/assets/home_mindtrails.png",
                             "tint": false
                         }
                     },
