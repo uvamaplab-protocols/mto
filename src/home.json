@@ -53,6 +53,15 @@
                         }
                     },
                     {
+                        "text": "Learning Goals",
+                        "action":"flow://glows/learning_goals.json",
+                        "backgroundcolor": "#1A209AFF",
+                        "icon": {
+                            "url": "assets/completed.png",
+                            "tint": false
+                        }
+                    },
+                    {
                         "text": "Contact Us",
                         "action": "flow://flows/contact.json",
                         "backgroundcolor": "#1A5C2FDA",
