@@ -1,0 +1,8 @@
+{
+    "header_text": "Getting the Most Out of MindTrails",
+    "elements": [
+		{ "type": "Text", "text": "Please press play on the training video below to learn more!" },
+		{ "type": "Media", "border": false, "url": "/videos/video2.mp4" },
+		{ "type": "Text", "border": false, "html": true, "text": "<p>There is no one right way to use MindTrails. Whether you’ve been diagnosed with an anxiety disorder or just want some help managing everyday stress, Mind Trails is meant to be a helpful tool that’s right at your fingertips.</p><p>MindTrails can be used alongside other treatments–such as therapy or medication–as a program to both practice concepts that you’ve already learned and add additional tools to your toolbox. If you’ve had experience with mental health treatment in the past, MindTrails can help you maintain what you gained from treatment, hopefully making the return of anxiety symptoms less likely, and even help you make more progress!</p><p>If you have not had experience with treatment in the past, we are so happy that you are here! The skills taught in MindTrails overlap with skills emphasized in evidence-based treatments for anxiety. MindTrails can be an important step in managing anxiety in a free and accessible way right from your smartphone.</p><p>MindTrails really emphasizes flexible thinking. This is one way of managing anxiety and stress, and there are many other tools out there to help you as well! If you are interested in additional tools for managing stress and anxiety, please visit the Resources tab on the main page of the app.</p><p>In whatever way you plan to use the app, we hope that the tools you learn here help you in your day-to-day life!</p>"}
+	]
+}

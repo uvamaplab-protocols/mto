@@ -35,7 +35,7 @@
                         }
                     },
                     {
-                        "text": "What is MindTrails?",
+                        "text": "Why do Thinking Exercises?",
                         "action": "flow://flows/mindtrails.json",
                         "backgroundcolor": "#1A00E05A",
                         "icon": {
@@ -44,8 +44,8 @@
                         }
                     },
                     {
-                        "text": "Instructions",
-                        "action": "flow://flows/instructions.json",
+                        "text": "Getting the Most Out of MindTrails",
+                        "action": "flow://flows/getting_the_most_out_of_mt.json",
                         "backgroundcolor": "#1A00C2FF",
                         "icon": {
                             "url": "/assets/home_instructions.png",
