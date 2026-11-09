@@ -1,5 +1,5 @@
 {
-    "header_text": "What is MindTrails?",
+    "header_text": "Why Do Thinking Exercises?",
     "elements": [
         { "type": "Text", "text": "Please press play on the training video below to learn more!" },
         { "type": "Media", "border": false, "url": "/videos/video1.mp4" },

@@ -46,6 +46,8 @@ def _create_practice_pages():
 
             # First, add the video that goes before each scenario
             yield create_video_page(scenario_num+1)
+            pre_scenario_text = "Now let's get practice with an example scenario." if scenario_num==0 else "Let's try another practice scenario."
+            yield create_survey_page(title="Your First Session", text=pre_scenario_text)
 
             domain, label = row[0].strip(), row[3]
             puzzle1,puzzle2 = map(create_puzzle,row[4:6])
