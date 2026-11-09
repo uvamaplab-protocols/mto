@@ -133,7 +133,7 @@ def create_input(tipe, values, output_name, variable_name = ""):
             "correct_feedback": "Correct",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
+            "display_delay": 7000,
             "words": values,
             **shared }
         return
@@ -250,7 +250,7 @@ def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, co
                 "correct_feedback": "Correct!",
                 "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                 "incorrect_delay": 5000,
-                "display_delay": 2000,
+                "display_delay": 7000,
                 "words": [word_1]
             }
         ],
@@ -275,7 +275,7 @@ def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, co
                     "correct_feedback": "Correct!",
                     "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
-                    "display_delay": 2000,
+                    "display_delay": 7000,
                     "words": [word_2]
                 }
             ],
