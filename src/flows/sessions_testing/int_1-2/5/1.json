@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Take a moment to think of someone who helps you feel supported, and send them a quick message or check-in. Even a brief connection can remind you that you're not alone and help ease anxiety. \n\nTry to disconnect these messages from your worries."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

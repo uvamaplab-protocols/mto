@@ -4,12 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Please imagine the situation as vividly as possible (i.e., so that it feels very real). Try to imagine you are actually in the situation. Play out the specific parts of the situation in your head. Try to imagine using all your senses.\n\nWhat do you see?\nWhat do you hear?"
-        }
-    ],
-    "navigation_conditions": [
+            "text": "Please describe the situation in a few words:"
+        },
         {
-            "wait_for_time": 4000
+            "type": "Entry",
+            "bordered": false,
+            "name": "entry_anxious_imagery"
         }
     ]
 }

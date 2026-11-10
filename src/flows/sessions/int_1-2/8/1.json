@@ -2,7 +2,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Anxiety often pushes us to avoid what feels uncomfortable, but facing it can help your anxiety decrease over time. It can be helpful to learn that the discomfort of anxiety is manageable and temporary."
+            "text": "When anxiety is high, it's easy to put enjoyable things on hold. Choosing a small, pleasant activity can help lift your mood and build confidence over time."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
         }
     ]
 }

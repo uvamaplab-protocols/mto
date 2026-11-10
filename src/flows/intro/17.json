@@ -1,15 +1,15 @@
 {
-    "header_text": "Attention in store",
+    "header_text": "Contributing to a discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attention in store"
+            "text": "Contributing to a discussion"
         },
         {
             "type": "Media",
-            "url": "./images/110.jpeg"
+            "url": "./images/56.jpeg"
         }
     ],
-    "scenario_num": 1
+    "scenario_num": 0
 }

@@ -1,24 +1,28 @@
 {
-    "header_text": "Attention in store",
+    "header_text": "Contributing to a discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a few moments, the other shoppers turn away; they were just startled by the loud noise. The store owner kindly accepts your apology and tells you not to worry about the mess, so you then feel..."
+            "Text": "The people in your class will probably ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "attention_in_store--social_situations--puzzle_word2",
+            "type": "Buttons",
+            "name": "contributing_to_a_discussion--academics_work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 7000,
-            "words": [
-                "calm"
+            "buttons": [
+                "Dislike your ideas.",
+                "Support your ideas."
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Support your ideas."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "scenario_num": 1
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "scenario_num": 0
 }

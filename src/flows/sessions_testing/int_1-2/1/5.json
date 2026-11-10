@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Let's practice. Take a moment to place one hand on your belly. \n\nBreathe in slowly through your nose, letting your stomach inflate like a balloon. \n\nExhale gently through your mouth and feel your shoulders drop. \n\nRepeat this a few times to help your body settle."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

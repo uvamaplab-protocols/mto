@@ -1,0 +1,19 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bring to mind a social situation that's causing anxiety. Think about what you're worried about.\n\nNow ask yourself: What do I actually know for sure? What am I assuming or predicting?"
+        },
+        {
+            "type": "Entry",
+            "bordered": false,
+            "name": "check_facts",
+            "variable_name": "check_facts"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

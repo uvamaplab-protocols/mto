@@ -1,13 +1,10 @@
 {
+    "header_text": "Your First Session",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please press play on the training video below to learn more!"
-        },
-        {
-            "type": "Media",
-            "url": "/videos/video3.mp4",
-            "border": false
+            "text": "Let's try another practice scenario."
         }
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Think of something that is currently distressing for you. \n\nImagine someone else is in the same situation you're facing right now and feeling the same worries you are. For a moment, step into the role of a kind, supportive friend or coach."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

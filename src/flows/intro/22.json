@@ -1,15 +1,15 @@
 {
-    "header_text": "A birthday cake",
+    "header_text": "Attention in store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A birthday cake"
+            "text": "Attention in store"
         },
         {
             "type": "Media",
-            "url": "./images/111.jpeg"
+            "url": "./images/110.jpeg"
         }
     ],
-    "scenario_num": 2
+    "scenario_num": 1
 }

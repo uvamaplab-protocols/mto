@@ -1,0 +1,10 @@
+{
+    "header_text": "Outro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Great, you're all done with the intro - Welcome to MindTrails. Soon, you'll start getting notifications when it's time for you to try thinking exercises in the app."
+        }
+    ]
+}

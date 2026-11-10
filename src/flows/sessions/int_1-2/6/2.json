@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Think of something that is currently distressing for you."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

@@ -2,7 +2,18 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Bring to mind a current or upcoming social situation that's causing anxiety. Identify one specific action you would normally avoid in that situation.\n\nIf you are in a social situation, do that action. If you are alone, imagine yourself doing that action and staying in the situation without escaping or doing something to avoid the hard parts. Notice the anxiety that shows up.\n\nSit with the discomfort long enough to observe what happens. Notice that anxiety changes over time and that you can do things even while feeling anxious."
+            "text": "When anxiety is high, it's easy to put enjoyable things on hold. Choosing a small, pleasant activity can help lift your mood and build confidence over time. \n\nWhat is a small pleasant activity you might choose, and when might you do it?"
+        },
+        {
+            "type": "Entry",
+            "bordered": false,
+            "name": "schedule_fun",
+            "variable_name": "schedule_fun"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
         }
     ]
 }

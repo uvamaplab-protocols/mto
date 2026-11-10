@@ -2,7 +2,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Since you have not yet completed a session today, there will not be an option to reschedule. Please complete this session now"
+            "text": "Since you have not yet completed a session today, there will not be an option to reschedule. Please complete this session now."
         }
     ],
     "condition": [

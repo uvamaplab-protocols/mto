@@ -1,10 +1,15 @@
 {
-    "header_text": "Your First Session",
+    "header_text": "Anxious Imagery Prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "MindTrails is designed to help you change the way you think about common but potentially stressful situations in order to reduce anxiety and stress. \n\nWhen you complete sessions in the app, you will be asked to read brief stories about situations that often produce anxiety and fill in missing letters to complete words, fill in entire words, or come up with new stories that are personally relevant to you. \n\nTo help familiarize you with the program and help you get the most out of this experience, we would like you complete a few short exercises and watch some brief videos explaining how MindTrails works. You will also be presented with three example stories so that you can begin to get the hang of the training. \n\nClick next to get started"
+            "text": "Please imagine the situation as vividly as possible (i.e., so that it feels very real). Try to imagine you are actually in the situation. Play out the specific parts of the situation in your head. Try to imagine using all your senses.\n\nWhat do you see?\nWhat do you hear?\nWhat do you smell?"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 4000
         }
     ]
 }

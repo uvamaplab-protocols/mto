@@ -1,28 +1,24 @@
 {
-    "header_text": "A birthday cake",
+    "header_text": "Attention in store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you eat the cake, you will probably ..."
+            "text": "After a few moments, the other shoppers turn away; they were just startled by the loud noise. The store owner kindly accepts your apology and tells you not to worry about the mess, so you then feel..."
         },
         {
-            "type": "Buttons",
-            "name": "a_birthday_cake--physical_health--comp_question",
+            "type": "WordPuzzle",
+            "name": "attention_in_store--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Get sick.",
-                "Not get sick."
+            "display_delay": 7000,
+            "words": [
+                "calm"
             ],
-            "column_count": 1,
-            "correct_value": "Get sick."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "scenario_num": 2
+    "navigation_conditions": "wait_for_correct",
+    "scenario_num": 1
 }

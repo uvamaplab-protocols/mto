@@ -1,5 +1,5 @@
 {
-    "header_text": "Reasons for Ending",
+    "header_text": "Reasons For Ending",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -10,7 +10,7 @@
             "type": "Buttons",
             "buttons": [
                 "g., cultural groups, volunteering)",
-                "Counseling and Pyscological Services (CAPS)",
+                "Counseling and Pyschological Services (CAPS)",
                 "Faculty and Employee Assistance Program (FEAP)",
                 "Food pantries",
                 "HELP Line",

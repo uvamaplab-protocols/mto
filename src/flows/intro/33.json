@@ -1,0 +1,18 @@
+{
+    "header_text": "Outro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are also going to be asked to do at least 1 set of these thinking exercises a day, which should take you about 5 minutes. Check this box to say that you agree."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::I agree to complete at least one session per day"
+            ],
+            "ColumnCount": 1,
+            "name": "survey_agreement"
+        }
+    ]
+}

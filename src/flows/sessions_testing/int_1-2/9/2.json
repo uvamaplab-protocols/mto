@@ -2,7 +2,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pick one activity you might enjoy - keep it low-pressure. It can be something you do alone or with others. Take a moment to schedule it so it's more likely to happen.\n\nThe goal isn't to feel anxiety-free, but to make room for enjoyment even if some anxiety shows up."
+            "text": "Bring to mind a social situation that's causing anxiety. Think about what you're worried about."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
         }
     ]
 }

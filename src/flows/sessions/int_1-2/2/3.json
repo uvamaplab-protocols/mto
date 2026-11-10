@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Choose one muscle group, such as your shoulders, hands, or jaw, and gently tense it for a few seconds. \n\nThen release the tension fully and notice the difference as the muscles soften and relax."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

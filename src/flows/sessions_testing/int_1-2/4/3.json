@@ -1,0 +1,13 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Picture a place where you feel completely at ease - maybe a quiet forest, a warm room, or a stretch of beach. \n\nNotice the colors, sounds, and sensations around you as if you're really there."
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 5000
+        }
+    ]
+}

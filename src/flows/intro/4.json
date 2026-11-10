@@ -1,15 +1,10 @@
 {
-    "header_text": "Anxious Imagery Prime",
+    "header_text": "Welcome!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please describe the situation in a few words:"
-        },
-        {
-            "type": "Entry",
-            "bordered": false,
-            "name": "entry_anxious_imagery"
+            "text": "This initial session will be a bit longer than future sessions.\n\nWe'll give you some more information about the rationale for this program and explain how to get the most out of the app. You'll have the opportunity to set up a meeting with the research team at the end of this session if you have any questions or concerns."
         }
     ]
 }

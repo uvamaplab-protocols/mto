@@ -1,10 +1,28 @@
 {
-    "header_text": "Outro",
+    "header_text": "Attention in store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Great job! We hope that this brief training helped clarify the purpose of these short stories and what you might be able to get out of MindTrails. Moving forward, you'll be able to choose areas of life that are causing the most stress so that the stories you read will be more relevant to you. During future sessions, you will also receive tips that are designed to help you manage your emotions, connect with resources at UVA, and apply what you learn from the short stories to your own life."
+            "Text": "The other shoppers probably think you are ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "attention_in_store--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Awkward and uncoordinated.",
+                "Considerate for apologizing."
+            ],
+            "column_count": 1,
+            "correct_value": "Considerate for apologizing."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "scenario_num": 1
 }
