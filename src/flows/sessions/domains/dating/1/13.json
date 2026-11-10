@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Eventually, you will meet the person who is right for you.",
-                "You will probably never find someone good for you."
+                "You will probably never find someone good for you.",
+                "Eventually, you will meet the person who is right for you."
             ],
             "column_count": 1,
-            "correct_value": "You will probably never find someone good for you."
+            "correct_value": "Eventually, you will meet the person who is right for you."
         }
     ],
     "navigation_conditions": [

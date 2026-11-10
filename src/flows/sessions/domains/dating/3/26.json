@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Is not a big deal at all.",
-                "Means you are clumsy and careless."
+                "Means you are clumsy and careless.",
+                "Is not a big deal at all."
             ],
             "column_count": 1,
-            "correct_value": "Is not a big deal at all."
+            "correct_value": "Means you are clumsy and careless."
         }
     ],
     "navigation_conditions": [

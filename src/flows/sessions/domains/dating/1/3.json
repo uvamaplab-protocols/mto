@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Your classmate has a question about the syllabus.",
-                "Your classmate thinks you are attractive."
+                "Your classmate thinks you are attractive.",
+                "Your classmate has a question about the syllabus."
             ],
             "column_count": 1,
-            "correct_value": "Your classmate has a question about the syllabus."
+            "correct_value": "Your classmate thinks you are attractive."
         }
     ],
     "navigation_conditions": [

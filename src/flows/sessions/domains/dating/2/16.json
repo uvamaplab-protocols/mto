@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoying many years with your significant other.",
-                "Regretting that your significant other and you couldn't make things work."
+                "Regretting that your significant other and you couldn't make things work.",
+                "Enjoying many years with your significant other."
             ],
             "column_count": 1,
-            "correct_value": "Enjoying many years with your significant other."
+            "correct_value": "Regretting that your significant other and you couldn't make things work."
         }
     ],
     "navigation_conditions": [

@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "The relationship eventually breaking down.",
-                "The two of you growing together for the rest of your lives."
+                "The two of you growing together for the rest of your lives.",
+                "The relationship eventually breaking down."
             ],
             "column_count": 1,
-            "correct_value": "The two of you growing together for the rest of your lives."
+            "correct_value": "The relationship eventually breaking down."
         }
     ],
     "navigation_conditions": [

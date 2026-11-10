@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Never see each other again.",
-                "Go out to coffee and have a great time."
+                "Go out to coffee and have a great time.",
+                "Never see each other again."
             ],
             "column_count": 1,
-            "correct_value": "Go out to coffee and have a great time."
+            "correct_value": "Never see each other again."
         }
     ],
     "navigation_conditions": [

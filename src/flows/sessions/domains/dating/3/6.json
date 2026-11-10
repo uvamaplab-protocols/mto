@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Make your friend feel good.",
-                "Put your friend in an awkward position."
+                "Put your friend in an awkward position.",
+                "Make your friend feel good."
             ],
             "column_count": 1,
-            "correct_value": "Put your friend in an awkward position."
+            "correct_value": "Make your friend feel good."
         }
     ],
     "navigation_conditions": [

@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You haven't gone on a date in a while.",
-                "You are unlikeable."
+                "You are unlikeable.",
+                "You haven't gone on a date in a while."
             ],
             "column_count": 1,
-            "correct_value": "You are unlikeable."
+            "correct_value": "You haven't gone on a date in a while."
         }
     ],
     "navigation_conditions": [

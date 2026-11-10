@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Break down into an argument.",
-                "Be a positive exchange about how you feel about each other."
+                "Be a positive exchange about how you feel about each other.",
+                "Break down into an argument."
             ],
             "column_count": 1,
-            "correct_value": "Be a positive exchange about how you feel about each other."
+            "correct_value": "Break down into an argument."
         }
     ],
     "navigation_conditions": [
